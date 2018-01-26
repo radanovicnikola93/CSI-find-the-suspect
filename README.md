@@ -28,10 +28,10 @@ But first, they have to teach you a bit about our DNA...</p>
 <p>There has been a hideous crime! A full container of ice cream was stored in the SmartNinja fridge - and now it's completely empty. But the criminal made a fatal mistake. S/he left a spoon inside the container and with a spoon also his/her DNA. A perfect case for our CSI investigators!</p>
 
 
-<p>CSI lab successfully extracted the DNA and wrote it in the ACTG code format. The only thing needed now is a program that would match that DNA with the suspects DNA and find the criminal.</p>>
+<p>CSI lab successfully extracted the DNA and wrote it in the ACTG code format. The only thing needed now is a program that would match that DNA with the suspects DNA and find the criminal.</p>
 
-<p>Here's the DNA text:
-<br>ACAAGATGCCATTGTCCCCCGGCCTCCTGCTGCTGCTGCTCTCCGGGGCCACGGCCACCGCTGCCCTGCCCCTGGAGGGTGGCCCCACCGGCCGAGACAGCGAGCATATGCAGGAAGCGGCAGGAATAAGGAAAAGCAGCCTCCTGACTTTCCTCGCTTGGTGGTTTGAGTGGACCTCCCAGGCCAGTGCCGGGCCCCTCATAGGAGAGGAAGCTCGGGAGGTGGCCAGGCGGCAGGAAGGCGCACCCCCCCAGCAATCCGCGCGCCGGGACAGAATGCCCTGCAGGAACTTCTTCTGGAAGACCTTCTCCTCCTGCAAATAAAACCTCACCCATGAATGCTCACGCAAGTTTAATTACAGACCTGAA 
+<p>Here's the DNA:
+<br>"ACAAGATGCCATTGTCCCCCGGCCTCCTGCTGCTGCTGCTCTCCGGGGCCACGGCCACCGCTGCCCTGCCCCTGGAGGGTGGCCCCACCGGCCGAGACAGCGAGCATATGCAGGAAGCGGCAGGAATAAGGAAAAGCAGCCTCCTGACTTTCCTCGCTTGGTGGTTTGAGTGGACCTCCCAGGCCAGTGCCGGGCCCCTCATAGGAGAGGAAGCTCGGGAGGTGGCCAGGCGGCAGGAAGGCGCACCCCCCCAGCAATCCGCGCGCCGGGACAGAATGCCCTGCAGGAACTTCTTCTGGAAGACCTTCTCCTCCTGCAAATAAAACCTCACCCATGAATGCTCACGCAAGTTTAATTACAGACCTGAA"
 <br>
 </p>
 <p>Like we said there are genes hidden in our DNA that define our personal characteristics. The CSI lab got us the following gene sequences for some of the human characteristics:</p>
