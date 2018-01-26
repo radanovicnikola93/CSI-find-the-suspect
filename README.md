@@ -53,8 +53,6 @@ But first, they have to teach you a bit about our DNA...</p>
 <em>Eye color:</em>
 
 <ul>
-    <li></li>
-    <li></li>
     <li>Blue: TTGTGGTGGC</li>
     <li>Green: GGGAGGTGGC</li>
     <li>Brown: AAGTAGTGAC</li>
@@ -90,11 +88,6 @@ But first, they have to teach you a bit about our DNA...</p>
     <li>Eye color: Blue</li>
     <li>Face shape: Oval</li>
 </ul>
-
-
-
-
-
 
 <em>Larisa:</em>
 
