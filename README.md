@@ -1,11 +1,10 @@
 # CSI-find-the-suspect
 A program that finds and matches a DNA of a suspect
 <hr>
-Build a CSI forensics program
 
-The famous CSI just asked you to create a forensics program for them. Exciting, right! :)
-
-But first, they have to teach you a bit about our DNA...
+<p>The famous CSI just asked to create a forensics program for them. Exciting, right! :)
+<br>
+But first, they have to teach you a bit about our DNA...</p>
 <hr>
 
 <b>DNA crash course</b>
@@ -38,33 +37,48 @@ But first, they have to teach you a bit about our DNA...
 <p>Like we said there are genes hidden in our DNA that define our personal characteristics. The CSI lab got us the following gene sequences for some of the human characteristics:</p>
 
 <em>Hair color:</em>
-
-Black: CCAGCAATCGC
-Brown: GCCAGTGCCG
-Blonde: TTAGCTATCGC
+<ol>
+    <li></li>
+    <li></li>
+    <li>Black: CCAGCAATCGC</li>
+    <li>Brown: GCCAGTGCCG</li>
+    <li>Blonde: TTAGCTATCGC</li>
+</ol>
 
 <em>Facial shape:</em>
-
-Square: GCCACGG
-Round: ACCACAA
-Oval: AGGCCTCA
+<ol>
+    <li>Square: GCCACGG</li>
+    <li>Round: ACCACAA</li>
+    <li>Oval: AGGCCTCA</li>
+</ol>
 
 <em>Eye color:</em>
-
-Blue: TTGTGGTGGC
-Green: GGGAGGTGGC
-Brown: AAGTAGTGAC
+<ol>
+    <li></li>
+    <li></li>
+    <li>Blue: TTGTGGTGGC</li>
+    <li>Green: GGGAGGTGGC</li>
+    <li>Brown: AAGTAGTGAC</li>
+</ol>
 
 <em>Gender:</em>
+<ol>
+    <li>Female: TGAAGGACCTTC</li>
+    <li>Male: TGCAGGAACTTC</li>
+</ol>
 
-Female: TGAAGGACCTTC
-Male: TGCAGGAACTTC
+
 
 <em>Race:</em>
+<ol>
+    <li>White: AAAACCTCA</li>
+    <li>Black: CGACTACAG</li>
+    <li>Asian: CGCGGGCCG</li>
+</ol>
 
-White: AAAACCTCA
-Black: CGACTACAG
-Asian: CGCGGGCCG
+
+
+
 
 <p>Please note that these are not real gene sequences and the "DNA" in the file is not a real DNA. It's way too short ;)</p>
 
@@ -72,33 +86,49 @@ Asian: CGCGGGCCG
 <b>Suspects characteristics:</b>
 
 <em>Eva:</em>
+<ol>
+    <li>Gender: Female</li>
+    <li>Race: White</li>
+    <li>Hair color: Blonde</li>
+    <li>Eye color: Blue</li>
+    <li>Face shape: Oval</li>
+</ol>
 
-Gender: Female
-Race: White
-Hair color: Blonde
-Eye color: Blue
-Face shape: Oval
+
+
+
+
 
 <em>Larisa:</em>
 
-Gender: Female
-Race: White
-Hair color: Brown
-Eye color: Brown
-Face shape: Oval
+<ol>
+    <li>Gender: Female</li>
+    <li>Race: White</li>
+    <li>Hair color: Brown</li>
+    <li>Eye color: Brown</li>
+    <li>Face shape: Oval</li>
+</ol>
 
 <em>Matej:</em>
-
-Gender: Male
-Race: White
-Hair color: Black
-Eye color: Blue
-Face shape: Oval
+<ol>
+    <li>Gender: Male</li>
+    <li>Race: White</li>
+    <li>Hair color: Black</li>
+    <li>Eye color: Blue</li>
+    <li>Face shape: Oval</li>
+</ol>
 
 <em>Miha:</em>
+<ol>
+    <li>Gender: Male</li>
+    <li>Race: White</li>
+    <li>Hair color: Brown</li>
+    <li>Eye color: Green</li>
+    <li>Face shape: Square</li>
+</ol>
 
-Gender: Male
-Race: White
-Hair color: Brown
-Eye color: Green
-Face shape: Square
+
+
+
+
+
