@@ -37,47 +37,44 @@ But first, they have to teach you a bit about our DNA...</p>
 <p>Like we said there are genes hidden in our DNA that define our personal characteristics. The CSI lab got us the following gene sequences for some of the human characteristics:</p>
 
 <em>Hair color:</em>
-<ol>
-    <li></li>
-    <li></li>
+<ul>
     <li>Black: CCAGCAATCGC</li>
     <li>Brown: GCCAGTGCCG</li>
     <li>Blonde: TTAGCTATCGC</li>
-</ol>
+</ul>
 
 <em>Facial shape:</em>
-<ol>
+<ul>
     <li>Square: GCCACGG</li>
     <li>Round: ACCACAA</li>
     <li>Oval: AGGCCTCA</li>
-</ol>
+</ul>
 
 <em>Eye color:</em>
-<ol>
+
+<ul>
     <li></li>
     <li></li>
     <li>Blue: TTGTGGTGGC</li>
     <li>Green: GGGAGGTGGC</li>
     <li>Brown: AAGTAGTGAC</li>
-</ol>
+</ul>
 
 <em>Gender:</em>
-<ol>
+
+<ul>
     <li>Female: TGAAGGACCTTC</li>
     <li>Male: TGCAGGAACTTC</li>
-</ol>
+</ul>
 
 
 
 <em>Race:</em>
-<ol>
+<ul>
     <li>White: AAAACCTCA</li>
     <li>Black: CGACTACAG</li>
     <li>Asian: CGCGGGCCG</li>
-</ol>
-
-
-
+</ul>
 
 
 <p>Please note that these are not real gene sequences and the "DNA" in the file is not a real DNA. It's way too short ;)</p>
@@ -86,13 +83,13 @@ But first, they have to teach you a bit about our DNA...</p>
 <b>Suspects characteristics:</b>
 
 <em>Eva:</em>
-<ol>
+<ul>
     <li>Gender: Female</li>
     <li>Race: White</li>
     <li>Hair color: Blonde</li>
     <li>Eye color: Blue</li>
     <li>Face shape: Oval</li>
-</ol>
+</ul>
 
 
 
@@ -101,34 +98,28 @@ But first, they have to teach you a bit about our DNA...</p>
 
 <em>Larisa:</em>
 
-<ol>
+<ul>
     <li>Gender: Female</li>
     <li>Race: White</li>
     <li>Hair color: Brown</li>
     <li>Eye color: Brown</li>
     <li>Face shape: Oval</li>
-</ol>
+</ul>
 
 <em>Matej:</em>
-<ol>
+<ul>
     <li>Gender: Male</li>
     <li>Race: White</li>
     <li>Hair color: Black</li>
     <li>Eye color: Blue</li>
     <li>Face shape: Oval</li>
-</ol>
+</ul>
 
 <em>Miha:</em>
-<ol>
+<ul>
     <li>Gender: Male</li>
     <li>Race: White</li>
     <li>Hair color: Brown</li>
     <li>Eye color: Green</li>
     <li>Face shape: Square</li>
-</ol>
-
-
-
-
-
-
+</ul>
